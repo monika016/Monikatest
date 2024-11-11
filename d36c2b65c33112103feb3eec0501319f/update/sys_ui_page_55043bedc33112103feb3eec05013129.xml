@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_1523813_monikate_UI Page.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	Test
+</j:jelly>]]></html>
+        <name>UI Page</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 10:06:31</sys_created_on>
+        <sys_id>55043bedc33112103feb3eec05013129</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UI Page</sys_name>
+        <sys_package display_value="MonikaTest" source="x_1523813_monikate">d36c2b65c33112103feb3eec0501319f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MonikaTest">d36c2b65c33112103feb3eec0501319f</sys_scope>
+        <sys_update_name>sys_ui_page_55043bedc33112103feb3eec05013129</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 10:06:31</sys_updated_on>
+    </sys_ui_page>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>55043bedc33112103feb3eec05013129</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 10:06:30</sys_created_on>
+        <sys_id>e834bbedc33112103feb3eec05013105</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 10:06:30</sys_updated_on>
+        <table>sys_ui_page</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>
